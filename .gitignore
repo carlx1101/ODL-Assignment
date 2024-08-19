@@ -1,0 +1,9 @@
+.venv/*
+
+Notebook/dir_2/*
+Notebook/hyperparameter_tuning/*
+Notebook/my_dir/*
+Notebook/dnn.h5
+Notebook/gru.h5
+Notebook/mcp.h5
+Notebook/model_tuned.h5
